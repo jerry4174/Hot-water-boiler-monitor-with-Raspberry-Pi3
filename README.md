@@ -23,3 +23,4 @@ For example not to feed a boiler the whole night, but switch it on in suffiecien
 
 You find a simple wiring diagram in the Wiki.
 
+![image](https://user-images.githubusercontent.com/117408439/200044077-104bfc74-3ceb-4f76-9d8d-985c5bcf9892.png)
