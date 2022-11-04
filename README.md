@@ -10,3 +10,8 @@ Off 2022.11.03 11:57:52
  On 2022.11.03 18:34:59  
 Off 2022.11.03 18:48:45  
 
+Used Hardware:  
+- Some power supply with DC from 3V up to 5V. I have used an old clasical Nokia power supply with 3,7V.  
+- Analog-to-digital converter ADS1115.   
+- Raspberry Pi3.  
+
