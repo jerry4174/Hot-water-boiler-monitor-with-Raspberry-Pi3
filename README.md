@@ -21,5 +21,5 @@ For example not to feed a boiler the whole night, but switch it on in suffiecien
 - Analog-to-digital converter ADS1115.   
 - Raspberry Pi3.  
 
-All 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+You find a simple wiring diagram in the Wiki.
+
