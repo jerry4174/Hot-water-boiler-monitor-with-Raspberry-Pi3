@@ -31,7 +31,7 @@ while True:            # Loop: program is running until kill
      dt_string = now.strftime("%Y.%m.%d %H:%M:%S") # date/time string
      volts = (str(round(chan.voltage,2))) # read rounded analog voltage to string
      #print volts
-     time.sleep(5)       # wait for 5 seconds and read the voltage again
+     time.sleep(30)       # wait for 30 seconds and read the voltage again
  
  # Threshold voltage is 2V here, depends on signal power supply.
  # The device is switched on:
