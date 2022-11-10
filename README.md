@@ -33,5 +33,8 @@ dfddd
 
 ![image](https://user-images.githubusercontent.com/117408439/200044485-4936f34f-5270-4b4e-b5c2-687b5e17d796.png)
 
+## License 
+Distributed under the MIT License. See https://en.wikipedia.org/wiki/MIT_License for more information.
+
 
 
