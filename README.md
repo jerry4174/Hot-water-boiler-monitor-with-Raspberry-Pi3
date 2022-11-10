@@ -25,7 +25,7 @@ For example you don't need to feed a boiler the whole night, but switch it on in
 You find a an [electrical schematic](https://github.com/jerry4174/Hot-water-boiler-monitor/wiki/Electrical-Schematic) and [wiring diagram](https://github.com/jerry4174/Hot-water-boiler-monitor/wiki/Wiring-Diagram) in the Wiki.
 
 ## Installation
-dfddf
+The monitor installation is described in Wiki [Installation Instructions](https://github.com/jerry4174/Hot-water-boiler-monitor/wiki/Installation-Instructions).
 
 ## Usage
 dfddd
