@@ -14,7 +14,7 @@ Off 2022.11.03 18:48:45
 ## Purpose
 For a system with an electric heating or hot water boiler in combination with Solar PV.  
 If you know the frequency and lenghts of switch-on phases, you can then save money with better control of your PV system.
-For example you need not to feed a boiler the whole night, but switch it on in suffiecient time before you need a hot water.
+For example you don't need to feed a boiler the whole night, but switch it on in suffiecient time before you use a hot water.
 
 ## Built With  
 - Some power supply with DC voltage from 3V up to 5V. I have used an old clasical Nokia power supply with 3,7V.  
