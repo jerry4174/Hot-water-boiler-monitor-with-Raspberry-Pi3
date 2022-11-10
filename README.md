@@ -14,14 +14,14 @@ Off 2022.11.03 18:48:45
 ## Purpose:
 For a system with an electric heating or hot water boiler in combination with Solar PV.  
 If you know the frequency and lenghts of switch-on phases, you can then save money with better control of your PV system.
-For example not to feed a boiler the whole night, but switch it on in suffiecient time before you need a hot water.
+For example you need not to feed a boiler the whole night, but switch it on in suffiecient time before you need a hot water.
 
 ## Used Hardware:  
 - Some power supply with DC voltage from 3V up to 5V. I have used an old clasical Nokia power supply with 3,7V.  
 - Analog-to-digital converter ADS1115.   
 - Raspberry Pi3.  
 
-You find a simple wiring diagram in the Wiki.
+You find a an electrical schematic and wiring diagram in the Wiki.
 
 ![image](https://user-images.githubusercontent.com/117408439/200044485-4936f34f-5270-4b4e-b5c2-687b5e17d796.png)
 
