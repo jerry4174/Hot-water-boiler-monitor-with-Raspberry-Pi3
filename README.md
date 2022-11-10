@@ -25,9 +25,10 @@ For example you need not to feed a boiler the whole night, but switch it on in s
 You find a an electrical schematic and wiring diagram in the Wiki.
 
 ## Installation
+dfddf
 
 ## Usage
-
+dfddd
 
 
 ![image](https://user-images.githubusercontent.com/117408439/200044485-4936f34f-5270-4b4e-b5c2-687b5e17d796.png)
