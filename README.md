@@ -22,7 +22,7 @@ For example you don't need to feed a boiler the whole night, but switch it on in
 - Raspberry Pi3.  
 
 ## Getting Started
-You find a an electrical schematic and wiring diagram in the Wiki.
+You find a an [electrical schematic](https://github.com/jerry4174/Hot-water-boiler-monitor/wiki/Electrical-Schematic) and wiring diagram in the Wiki.
 
 ## Installation
 dfddf
