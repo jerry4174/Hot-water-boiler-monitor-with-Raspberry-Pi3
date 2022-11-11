@@ -17,7 +17,7 @@ If you know the frequency and lenghts of switch-on phases, you can then save mon
 For example you don't need to feed a boiler the whole night, but switch it on in suffiecient time before you use a hot water.
 
 ## Built With  
-- Some power supply with DC output voltage from 3V up to 5V. I have used an old clasical Nokia power supply with 3,7V.  
+- Some power supply with DC output voltage from 3V up to 5V. I have used an old clasical Nokia power supply with 3.7V.  
 - Analog-to-digital converter ADS1115.   
 - Raspberry Pi3.  
 
