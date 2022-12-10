@@ -28,7 +28,8 @@ You find a an [electrical schematic](https://github.com/jerry4174/Hot-water-boil
 The monitor installation is described in the Wiki part [Installation Instructions](https://github.com/jerry4174/Hot-water-boiler-monitor/wiki/Installation-Instructions).
 
 ## Usage
-- Connect the monitor power supply to a boiler or a pump.
+- Switch off the boiler. Connect the monitor power supply to a boiler or a pump.  
+- Use L and N wire. This job must be done by a licensed electrician.  
 - Switch on the boiler
 - Start remote boiler.py: sudo nohup python ./boiler.py & 
 - Run the monitor about one week. After one week the log file will be evalueted. You will see the switching intervals of your boiler or another machine.
