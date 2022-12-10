@@ -33,10 +33,9 @@ The monitor installation is described in the Wiki part [Installation Instruction
 - Switch on the boiler
 - Start remote boiler.py: sudo nohup python ./boiler.py & 
 - Run the monitor about one week. After one week the log file will be evalueted. You will see the switching intervals of your boiler or another machine.
-- Example of a log file: 
+- Example of a log file: [log](https://github.com/jerry4174/Hot-water-boiler-monitor/blob/main/boiler%20log.JPG)
 
 
-![image](https://user-images.githubusercontent.com/117408439/200044485-4936f34f-5270-4b4e-b5c2-687b5e17d796.png)
 
 ## License 
 Distributed under the MIT License. See https://en.wikipedia.org/wiki/MIT_License for more information.
